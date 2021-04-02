@@ -21,4 +21,4 @@ The security flaw lies in 2 points: the version of python used **"Python2"** and
 
 Several solutions exist, each more or less optimized. The best is to inject the following command `__import __ ('os'). System ('sh')` which consists in directly importing a shell to the user. The latter can thus cat the flag and even the names of the cities. You can directly cat the `__import __ ('os'). System ('cat flag')` flag or even try to brute force the program by choosing a city and repeat the program until it is chosen.
 
-If you liked this writeup you can check our github with this [link](https://github.com/PoCInnovation/ReblochonWriteups/tree/master/PicoCTF2021) and star our repository.
+If you liked this writeup you can star our repository.
