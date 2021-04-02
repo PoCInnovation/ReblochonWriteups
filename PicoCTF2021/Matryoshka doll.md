@@ -21,3 +21,5 @@ In a forensic challenge with an image it is common to start with a panel of func
 ## The solution
 
 By using **binwalk** we access the signature of the file and we can read that the image is a compressed file under zip. So we can unzip the image and get another image of a smaller doll. You must have understood the reasoning you must unzip the image until you get a text file: the flag.
+
+If you liked this writeup you can star our repository.
