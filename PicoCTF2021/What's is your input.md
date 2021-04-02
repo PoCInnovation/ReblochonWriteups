@@ -9,7 +9,7 @@ The objective of the challenge is to enter the correct answers to 2 questions th
 ## Program structure
 
 ![enter image description here](https://i.ibb.co/Y7p6fwq/english-input.png)
-## Problème
+## Problem
 
 By reading the source code we understand that to obtain the flag we must answer the second question correctly. However, unlike the first question where the answer is identical each time the program is launched, the preferred city chosen is the result of a random choice of several cities unknown to the user.
 
