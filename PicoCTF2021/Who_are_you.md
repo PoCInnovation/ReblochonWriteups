@@ -71,4 +71,5 @@ The challenge is relatively simple once you know where you have to operate the s
 The rest is just research versus what the site tells us.
 Hoping that this could help you ;)
 
-If you liked this writeup you can check our github with this [link](https://github.com/PoCInnovation/ReblochonWriteups/tree/master/PicoCTF2021) and star our repository.
+If you liked this writeup you can star our repository.
+
