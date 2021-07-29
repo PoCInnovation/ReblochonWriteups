@@ -1,0 +1,1 @@
+The file to analyse is an image. One of the first thing to try is to check the filters of the image. We can try this by using stegsolve and the flag appears on the screen.

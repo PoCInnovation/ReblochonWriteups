@@ -1,0 +1,2 @@
+To decrypt RSA you need P and Q. By decomposing N you can find those numbers. https://www.dcode.fr/prime-factors-decomposition.
+With those numbers and this website https://www.dcode.fr/rsa-cipher you can decode the ciphertext

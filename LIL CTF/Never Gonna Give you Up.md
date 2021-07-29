@@ -1,0 +1,1 @@
+When you string the file you see a flag.txt. By using binwalk you realise that the file is a zip type. By unziping it we can obtain the flag.

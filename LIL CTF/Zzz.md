@@ -1,0 +1,2 @@
+The goal of this chall is to decipher the text. We can read that the letters of the alphabet have been shuffled. This type of encryption is called Substitution cipher. In this website we can decipher it https://www.dcode.fr/substitution-monoalphabetique.
+You then have to enter the first phrase.
